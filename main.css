@@ -31,9 +31,10 @@ html, body {
 body {
   align-items: center;
   background-color: #84a98c;
-  display: flex;
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
+  display: flex;  
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
   font-style: normal;
 }
 
