@@ -30,7 +30,7 @@ html, body {
 
 body {
   align-items: center;
-  background-color: #84a98c;
+  background-color: #c3d7c5;
   display: flex;  
   font-family: "Google Sans", sans-serif;
   font-optical-sizing: auto;
@@ -39,15 +39,16 @@ body {
 }
 
 .container {
-  color: #2f3e46;
+  color: #3b6063;
   margin: 0 auto;
   text-align: center;
 }
 
 h1 {
-  font-weight: normal;
-  letter-spacing: .125rem;
-  text-transform: uppercase;
+    letter-spacing: 0;
+    text-transform: uppercase;
+    font-size: 41px;
+    font-weight: 900;
 }
 
 li {
